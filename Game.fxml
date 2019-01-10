@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.shape.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="495.0" prefWidth="297.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Rectangle fill="#adb5bc" height="30.0" layoutY="50.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="5.0" width="155.0" />
+      <Rectangle fill="#adb5bc" height="30.0" layoutX="233.0" layoutY="50.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="5.0" width="64.0" />
+      <StackPane layoutY="178.0">
+         <children>
+            <Rectangle arcHeight="10.0" arcWidth="10.0" fill="#1eff85" height="45.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="45.0" />
+            <Text boundsType="VISUAL" strokeType="OUTSIDE" strokeWidth="0.0" text="5" textAlignment="CENTER" />
+         </children>
+      </StackPane>
+      <StackPane layoutX="42.0" layoutY="178.0">
+         <children>
+            <Rectangle arcHeight="10.0" arcWidth="10.0" fill="#f2ff1f" height="45.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="45.0" />
+            <Text boundsType="VISUAL" strokeType="OUTSIDE" strokeWidth="0.0" text="10" textAlignment="CENTER" />
+         </children>
+      </StackPane>
+      <StackPane layoutX="84.0" layoutY="178.0">
+         <children>
+            <Rectangle arcHeight="10.0" arcWidth="10.0" fill="#eb9a2a" height="45.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="45.0" />
+            <Text boundsType="VISUAL" strokeType="OUTSIDE" strokeWidth="0.0" text="15" textAlignment="CENTER" />
+         </children>
+      </StackPane>
+      <StackPane layoutX="126.0" layoutY="178.0">
+         <children>
+            <Rectangle arcHeight="10.0" arcWidth="10.0" fill="#eb5f2a" height="45.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="45.0" />
+            <Text boundsType="VISUAL" strokeType="OUTSIDE" strokeWidth="0.0" text="20" textAlignment="CENTER" />
+         </children>
+      </StackPane>
+      <StackPane layoutX="168.0" layoutY="178.0">
+         <children>
+            <Rectangle arcHeight="10.0" arcWidth="10.0" fill="#1eff85" height="45.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="45.0" />
+            <Text boundsType="VISUAL" strokeType="OUTSIDE" strokeWidth="0.0" text="1" textAlignment="CENTER" />
+         </children>
+      </StackPane>
+      <StackPane layoutX="252.0" layoutY="178.0">
+         <children>
+            <Rectangle arcHeight="10.0" arcWidth="10.0" fill="#eb5f2a" height="45.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="45.0" />
+            <Text boundsType="VISUAL" strokeType="OUTSIDE" strokeWidth="0.0" text="26" textAlignment="CENTER" />
+         </children>
+      </StackPane>
+      <StackPane layoutX="210.0" layoutY="178.0">
+         <children>
+            <Rectangle arcHeight="10.0" arcWidth="10.0" fill="#f2ff1f" height="45.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="3.0" width="45.0" />
+            <Text boundsType="VISUAL" strokeType="OUTSIDE" strokeWidth="0.0" text="8" textAlignment="CENTER" />
+         </children>
+      </StackPane>
+   </children>
+</Pane>
